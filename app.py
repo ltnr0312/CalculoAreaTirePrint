@@ -1,7 +1,6 @@
 import streamlit as st
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt
 
 # Função para processar a imagem
 def process_image(image, largura_mm, altura_mm):
